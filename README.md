@@ -64,7 +64,6 @@ Suijiu Qianlong — Documenting personal deductive reasoning outcomes.
 
 ## 作者账号
 - 详见抖音号：25048587714（岁久潜龙）
-- 合集名称：音美文
 
 ## License
 
